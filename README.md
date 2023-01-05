@@ -3,7 +3,8 @@
 
 Q&A 고객센터 문의글 구현
 
-- 메인 고객센터(리스트)
+<details><summary style="color:skyblue">메인 고객센터(리스트)</summary>
+
 ~~~
 package controllers.qna;
 
@@ -39,7 +40,9 @@ public class QnAMainController {
 	
 }
 ~~~
+
 - 기능 구현
+
 ~~~
 package models.qna.service;
 
@@ -77,7 +80,10 @@ public class QnAListService {
 }
 ~~~
 
-- 문의글 작성
+</details>
+
+<details><summary style="color:skyblue">문의글 작성</summary>
+
 ~~~
 package controllers.qna;
 
@@ -136,7 +142,9 @@ public class QnAWriteController {
 	}
 }
 ~~~
+
 - 기능
+
 ~~~
 @Service
 public class QnAWriteService {
@@ -175,7 +183,10 @@ public class QnAWriteService {
 }
 ~~~
 
-- 문의글 답변 작성
+</details>
+
+<details><summary style="color:skyblue">문의글 답변 작성</summary>
+
 ~~~
 package controllers.qna;
 
@@ -204,7 +215,9 @@ public class QnACommentController {
 	}
 }
 ~~~
+
 - 기능 구현
+
 ~~~
 package models.qna.service;
 
@@ -233,7 +246,10 @@ public class QnACommentService {
 }
 ~~~
 
-- 문의글 보기 구현
+</details>
+
+<details><summary style="color:skyblue">문의글 보기 구현</summary>
+
 ~~~
 package controllers.qna;
 
@@ -267,3 +283,10 @@ public class QnAViewController {
 
 }
 ~~~
+
+</details>
+
+<details><summary style="color:skyblue">관련 예시 </summary>
+
+
+</details>
