@@ -1,6 +1,6 @@
 # BookShoppingMall
 
-게시판 구현(파일 업로드)
+게시판 구현(파일 업로드 )
 
 <details><summary style="color:skyblue">메인(리스트 및 검색)</summary>
 
@@ -522,6 +522,11 @@ public class BoardDeleteController {
 	
 }
 ~~~
+
+
+</details>
+	
+<details><summary style="color:skyblue">관련 예시 이미지</summary>
 
 
 </details>
