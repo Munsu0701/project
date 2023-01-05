@@ -255,5 +255,7 @@ public class ReplyWriteService {
 
 <details><summary style="color:skyblue">관련 예시 이미지</summary>
 
-
+- 댓글 작성 및 대댓글 작성
+<img src="https://user-images.githubusercontent.com/105355765/210731295-26d8e7b1-7dd2-450d-8389-8e574ca64dcb.png">
+	
 </details>
