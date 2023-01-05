@@ -536,5 +536,8 @@ public class BoardDeleteController {
 	
 <img src="https://user-images.githubusercontent.com/105355765/210730299-bd93ebb8-8af0-4ac6-99e1-24d9b3c0f897.png">
 	
+- 게시글 작성
+	
+<img src="https://user-images.githubusercontent.com/105355765/210730661-de80b139-f994-4d56-8dd7-09ce73717c84.png">
 	
 </details>
