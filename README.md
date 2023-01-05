@@ -42,6 +42,7 @@ public class BoardMainController {
 ~~~
 
 - 기능 구현
+	
 ~~~
 @Service
 public class BoardListService {
@@ -87,6 +88,7 @@ public class BoardListService {
 </details>
 
 <details><summary style="color:skyblue">비밀글일 경우</summary>
+	
 ~~~
 package controllers.board;
 
@@ -145,6 +147,7 @@ public class BoardPrivateController {
 	
 	
 - 기능 구현(접속권한부여)
+	
 ~~~
 package models.board.service;
 
@@ -228,6 +231,7 @@ public class BoardViewController {
 </details>
 
 - 게시글 작성
+	
 ~~~
 package controllers.board;
 
