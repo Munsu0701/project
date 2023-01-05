@@ -288,5 +288,15 @@ public class QnAViewController {
 
 <details><summary style="color:skyblue">관련 예시 </summary>
 
+- Q&A 글 작성
+<img src="https://user-images.githubusercontent.com/105355765/210732238-7bd23e67-b498-4f9d-a4d7-08e6904f939a.png">
+
+- Q&A 글 목록(답변 상태 확인)
+<img src="https://user-images.githubusercontent.com/105355765/210732349-a4364ff3-36ce-40d7-90fa-3638ae6e92a9.png">
+- 답변 하였을때
+<img src="https://user-images.githubusercontent.com/105355765/210732531-1f734b5e-ceaf-4c07-8237-89ef26542dd6.png">
+
+- Q&A 문의글 관리자가 답변
+<img src="https://user-images.githubusercontent.com/105355765/210732434-2045c792-1f92-4e77-a22f-45435bc3ebc8.png">
 
 </details>
