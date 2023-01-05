@@ -191,7 +191,7 @@ public class BoardPrivateService {
 
 </details>
 
-<details><summary style="color:skyblue">- 게시글 개별 조회</summary>
+<details><summary style="color:skyblue">게시글 개별 조회</summary>
 
 ~~~
 package controllers.board;
@@ -229,8 +229,8 @@ public class BoardViewController {
 
 
 </details>
-
-- 게시글 작성
+	
+<details><summary style="color:skyblue">게시글 작성</summary>
 	
 ~~~
 package controllers.board;
@@ -293,7 +293,9 @@ public class BoardWriteController {
 
 }
 ~~~
+	
 - 기능 구현
+	
 ~~~
 package models.board.service;
 
@@ -365,7 +367,10 @@ public class BoardWriteService {
 }
 ~~~
 
-- 게시글 수정
+</details>
+
+<details><summary style="color:skyblue">게시글 수정</summary>
+
 ~~~
 package controllers.board;
 
@@ -428,6 +433,7 @@ public class BoardUpdateController {
 ~~~
 
 - 기능 구현
+	
 ~~~
 @Service
 public class BoardWriteService {
@@ -481,7 +487,10 @@ public class BoardWriteService {
 }
 ~~~
 
-- 게시판 삭제
+</details>
+
+<details><summary style="color:skyblue">게시판 삭제</summary>
+
 ~~~
 package controllers.board;
 
@@ -513,3 +522,6 @@ public class BoardDeleteController {
 	
 }
 ~~~
+
+
+</details>
