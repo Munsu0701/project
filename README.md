@@ -2,9 +2,8 @@
 
 게시판 구현(파일 업로드)
 
-<details><summary style="color:skyblue">CLICK ME</summary>
+<details><summary style="color:skyblue">메인(리스트 및 검색)</summary>
 
-	- 메인(리스트 및 검색)
 ~~~
 package controllers.board;
 
@@ -87,9 +86,7 @@ public class BoardListService {
 	
 </details>
 
-
-
-- 비밀글일 경우
+<details><summary style="color:skyblue">비밀글일 경우</summary>
 ~~~
 package controllers.board;
 
@@ -145,6 +142,8 @@ public class BoardPrivateController {
 }
 ~~~
 
+	
+	
 - 기능 구현(접속권한부여)
 ~~~
 package models.board.service;
@@ -187,7 +186,10 @@ public class BoardPrivateService {
 }
 ~~~
 
-- 게시글 개별 조회
+</details>
+
+<details><summary style="color:skyblue">- 게시글 개별 조회</summary>
+
 ~~~
 package controllers.board;
 
@@ -221,6 +223,9 @@ public class BoardViewController {
 
 }
 ~~~
+
+
+</details>
 
 - 게시글 작성
 ~~~
