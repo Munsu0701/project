@@ -3,7 +3,8 @@
 
 댓글 및 대댓글 작성
 
-- 기본 작성
+<details><summary style="color:skyblue">기본 작성</summary>
+
 ~~~
 package controllers.comment;
 
@@ -37,7 +38,9 @@ public class CommentWriteController {
 	
 }
 ~~~
+
 - 기능 부분
+
 ~~~
 @Service
 public class CommentWriteService {
@@ -72,7 +75,10 @@ public class CommentWriteService {
 }
 ~~~
 
-- 댓글 수정
+</details>
+
+<details><summary style="color:skyblue">댓글 수정</summary>
+
 ~~~
 package controllers.comment;
 
@@ -101,7 +107,9 @@ public class CommentUpdateController {
 	
 }
 ~~~
+
 - 기능
+
 ~~~
 package models.comment.service;
 
@@ -136,7 +144,10 @@ public class CommentUpdateService {
 }
 ~~~
 
-- 댓글 삭제
+</details>
+
+<details><summary style="color:skyblue">댓글 삭제</summary>
+
 ~~~
 package controllers.comment;
 
@@ -165,7 +176,10 @@ public class CommentDeleteController {
 }
 ~~~
 
-- 대댓글
+</details>
+
+<details><summary style="color:skyblue">대댓글</summary>
+
 ~~~
 package controllers.comment;
 
@@ -196,7 +210,9 @@ public class ReplyWriteController {
 	
 }
 ~~~
+
 - 기능
+
 ~~~
 @Service
 public class ReplyWriteService {
@@ -234,3 +250,10 @@ public class ReplyWriteService {
 	
 }
 ~~~
+
+</details>
+
+<details><summary style="color:skyblue">관련 예시 이미지</summary>
+
+
+</details>
