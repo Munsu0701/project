@@ -528,5 +528,7 @@ public class BoardDeleteController {
 	
 <details><summary style="color:skyblue">관련 예시 이미지</summary>
 
+<img src="https://user-images.githubusercontent.com/105355765/210729973-37356d1a-4bdb-401d-a9dc-11b8b409bc85.png">
+
 
 </details>
