@@ -2,6 +2,26 @@
 
 게시판 구현(파일 업로드)
 
+<details><summary style="color:skyblue">CLICK ME</summary>
+<p>
+  
+#### yes, even hidden code blocks!
+
+## hi
+
+**강조**
+
+- 1
+- 2
+- 3
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
 - 메인(리스트 및 검색)
 ~~~
 package controllers.board;
